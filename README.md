@@ -167,4 +167,4 @@ Deployment Workflow:
 * Real-Time Clinical Dashboard
 * Integration with Electronic Health Records
 * XAI reports
-  thanks to krish nayak sir for bringing in with the understanding of MLOPS
+  thanks to krish nayak sir for bringing in with the understanding of MLOPS better
